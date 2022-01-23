@@ -1,0 +1,8 @@
+//
+// Created by jasper on 1/8/22.
+//
+
+#ifndef PROJECT_2_COMPONENTS_H
+#define PROJECT_2_COMPONENTS_H
+
+#endif //PROJECT_2_COMPONENTS_H

@@ -1,0 +1,3 @@
+/home/jasper/cpp-workspace/game-dev-projects/project-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jasper/cpp-workspace/game-dev-projects/project-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jasper/cpp-workspace/game-dev-projects/project-test/cmake-build-debug/CMakeFiles/project_test.dir

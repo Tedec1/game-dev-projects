@@ -1,0 +1,8 @@
+/snap/clion/178/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/178/bin/ninja/linux/ninja -G Ninja /home/jasper/cpp-workspace/game-dev-projects/project-test
+-- Found SFML 2.5.1 in /home/jasper/Libraries/SFML-2.5.1/lib/cmake/SFML
+-- SFML_INCLUDE_DIR: /home/jasper/Libraries/SFML-2.5.1/include
+-- SFML_LIBRARIES: 
+-- SFML_VERSION: 2.5.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jasper/cpp-workspace/game-dev-projects/project-test/cmake-build-debug
